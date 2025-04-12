@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was made whit the motivation is knowing about the a particular type of definition in the World Cup tournament. Spain 82 was hosted the first defintion and until Qatar 22 were thirty five definitions total. The data analysis project aims to get some outcomes by different information from the CVS, for example the side of the shots, player-foot skilful, goalkeeper's dive, performances scores team etc. Thererefore analyzing various aspects, we answers any questions that we elaborate and to show any interesting dataframes using the libraries availibles and programation concepts.
+This project was made with the motivation is knowing about the a particular type of definition in the World Cup tournament. Spain 82 was hosted the first defintion and until Qatar 22 were thirty five definitions total. The data analysis project aims to get some outcomes by different information from the CVS, for example the side of the shots, player-foot skilful, goalkeeper's dive, performances scores team etc. Thererefore analyzing various aspects, we answers any questions that we elaborate and to show any interesting dataframes using the libraries availibles and programation concepts.
 
 ## Sources and Tools
 
